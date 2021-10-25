@@ -1,1 +1,1 @@
-## Segunda parte do curso de `Lógica da programação` 
+## Segunda parte do curso de `Lógica da programação`.
